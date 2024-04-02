@@ -1,0 +1,2 @@
+^C:\USERS\CARL YAP\SOURCE\REPOS\MANPROJECT\ASMFUNC.ASM
+C:\Nasm\nasm -f win64 asmfunc.asm

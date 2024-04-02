@@ -1,0 +1,8 @@
+﻿  Performing Custom Build Tools
+  main.c
+C:\Users\Carl Yap\source\repos\ManProject\main.c(62,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ManProject.vcxproj -> C:\Users\Carl Yap\source\repos\ManLBYARCH\x64\Release\ManProject.exe
